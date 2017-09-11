@@ -1,0 +1,12 @@
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\obj\Debug\pdietz1b1.vbprojResolveAssemblyReference.cache
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\obj\Debug\pdietz1b1.Resources.resources
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\obj\Debug\pdietz1b1.FrmSplash.resources
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\obj\Debug\pdietz1b1.vbproj.GenerateResource.Cache
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\obj\Debug\pdietz1b1.vbproj.CoreCompileInputs.cache
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\bin\Debug\Splash Project.exe.config
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\bin\Debug\Splash Project.exe
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\bin\Debug\Splash Project.pdb
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\bin\Debug\Splash Project.xml
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\obj\Debug\Splash Project.exe
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\obj\Debug\Splash Project.xml
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\Comc 2730- Fall 2017\pdietz1b1\obj\Debug\Splash Project.pdb

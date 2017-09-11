@@ -1,0 +1,10 @@
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\bin\Debug\pdietz1c1.exe.config
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\bin\Debug\pdietz1c1.exe
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\bin\Debug\pdietz1c1.pdb
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\bin\Debug\pdietz1c1.xml
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.Resources.resources
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.vbproj.GenerateResource.Cache
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.vbproj.CoreCompileInputs.cache
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.exe
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.xml
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.pdb

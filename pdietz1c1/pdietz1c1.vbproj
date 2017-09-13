@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <StartupObject>pdietz1c1.My.MyApplication</StartupObject>
     <RootNamespace>pdietz1c1</RootNamespace>
-    <AssemblyName>pdietz1c1</AssemblyName>
+    <AssemblyName>penguin</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>pdietz1c1.xml</DocumentationFile>
+    <DocumentationFile>penguin.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>pdietz1c1.xml</DocumentationFile>
+    <DocumentationFile>penguin.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -72,11 +72,11 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb">
+    <Compile Include="Main Form.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="Main Form.Designer.vb">
+      <DependentUpon>Main Form.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -94,16 +94,40 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="My Project\Star Wars.Designer.vb">
+      <DependentUpon>Star Wars.vb</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Star Wars.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Star Wars.Designer.vb">
+      <DependentUpon>Star Wars.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Star Wars.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Toucan Form.Designer.vb">
+      <DependentUpon>Toucan Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Toucan Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="Main Form.resx">
+      <DependentUpon>Main Form.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Star Wars.resx">
+      <DependentUpon>Star Wars.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Toucan Form.resx">
+      <DependentUpon>Toucan Form.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -117,6 +141,18 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Carnival.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Darth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Trooper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="toucan.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

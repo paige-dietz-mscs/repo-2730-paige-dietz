@@ -100,10 +100,10 @@
     <Compile Include="My Project\Star Wars.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Star Wars.Designer.vb">
-      <DependentUpon>Star Wars.vb</DependentUpon>
+    <Compile Include="StarWars2.Designer.vb">
+      <DependentUpon>StarWars2.vb</DependentUpon>
     </Compile>
-    <Compile Include="Star Wars.vb">
+    <Compile Include="StarWars2.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Toucan Form.Designer.vb">
@@ -125,6 +125,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Star Wars.resx">
       <DependentUpon>Star Wars.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StarWars2.resx">
+      <DependentUpon>StarWars2.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Toucan Form.resx">
       <DependentUpon>Toucan Form.vb</DependentUpon>

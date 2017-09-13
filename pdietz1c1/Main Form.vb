@@ -1,7 +1,8 @@
 ﻿Public Class frmMain
 
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
-        frmStarWars.Show()
+        'frmStarWars.Show()
+        StarWars2.Show()
         Timer1.Enabled = False
     End Sub
 

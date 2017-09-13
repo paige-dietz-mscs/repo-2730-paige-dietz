@@ -5,10 +5,10 @@ C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdiet
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\bin\Debug\penguin.exe
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\bin\Debug\penguin.pdb
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\bin\Debug\penguin.xml
-C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.vbprojResolveAssemblyReference.cache
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.frmMain.resources
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\penguin.exe
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\penguin.xml
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\penguin.pdb
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.frmStarWars.resources
 C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.frmToucan.resources
+C:\Users\pdiet\Documents\Visual Studio 2017\Projects\repo-2730-paige-dietz\pdietz1c1\obj\Debug\pdietz1c1.StarWars2.resources

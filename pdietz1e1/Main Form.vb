@@ -15,7 +15,7 @@ Public Class frmMain
     End Sub
 
     Private Sub btnCalc_Click(sender As Object, e As EventArgs) Handles btnCalc.Click
-        txtAssessed.Text = Val(lblTax.Text) * 1.5
+        lblTax.Text = Val(txtAssessed.Text) * 0.015
         lblTax.Text = Format(lblTax.Text, "Currency")
     End Sub
 End Class
